@@ -2,7 +2,7 @@
 
 Find **critical-but-fragile** open-source dependencies, and coordinate who steps in to help.
 
-See [docs/GAPS.md](docs/GAPS.md) for the research behind this: five under-invested challenges and why this one was chosen first.
+See [docs/GAPS.md](docs/GAPS.md) for the research behind this: five under-invested challenges and why this one was chosen first. [docs/KAGGLE.md](docs/KAGGLE.md) reviews open Kaggle competitions suited to one developer working with AI.
 
 ## What it does
 
