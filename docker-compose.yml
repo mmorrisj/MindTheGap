@@ -1,0 +1,10 @@
+# Postgres with pgvector preinstalled, so semantic search can be added later without a DB swap.
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: mtg
+      POSTGRES_PASSWORD: mtg
+      POSTGRES_DB: mindthegap
+    ports:
+      - "5432:5432"
